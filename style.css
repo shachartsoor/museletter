@@ -1,0 +1,190 @@
+@font-face {
+    font-family: "dan-m";
+    font-weight: 500;
+    src: url("/fonts/dan-medium.woff2") format("woff2");
+    }
+ @font-face {
+    font-family: "aharoni-r";
+    font-weight: 400;
+    src: url("/fonts/aharoni-regular.woff2") format("woff2");
+ }
+ @font-face {
+    font-family: "david-m";
+    font-weight: 500;
+    src: url("/fonts/david-medium.woff2") format("woff2");
+ }
+ @font-face {
+    font-family: "david-cursive";
+    font-weight: 400;
+    src: url("/fonts/david-cursive.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "david-bold";
+ font-weight: 400;
+ src: url("/fonts/david-bold.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "frank-ruhl-bold";
+ font-weight: 400;
+ src: url("/fonts/frank-ruhl-bold.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "drugulin-display";
+ font-weight: 400;
+ src: url("/fonts/drugulin-display.woff2.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "david-regular";
+ font-weight: 400;
+ src: url("/fonts/david-regular.woff2.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "hadassah-regular";
+ font-weight: 400;
+ src: url("/fonts/hadassah-regular.woff2.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "hadassah-bold";
+ font-weight: 400;
+ src: url("/fonts/hadassah-bold.woff2.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "frank-ruhl-regular";
+ font-weight: 400;
+ src: url("/fonts/frank-ruhl-regular.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "hatzvi-bold";
+ font-weight: 400;
+ src: url("/fonts/hatzvi-bold.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "haim-narrow";
+ font-weight: 400;
+ src: url("/fonts/haim-narrow.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "haim-bold";
+ font-weight: 400;
+ src: url("/fonts/haim-bold.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "koren-bold";
+ font-weight: 400;
+ src: url("/fonts/koren-bold.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "hatzvi-light";
+ font-weight: 400;
+ src: url("/fonts/hatzvi-light.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "hatzvi-inline";
+ font-weight: 400;
+ src: url("/fonts/hatzvi-inline.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "narkiss-block-bold";
+ font-weight: 400;
+ src: url("/fonts/narkiss-block-bold.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "koren-regular";
+ font-weight: 400;
+ src: url("/fonts/koren-regular.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "narkiss-linotype-regular";
+ font-weight: 400;
+ src: url("/fonts/narkiss-linotype-regular.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "narkiss-linotype-bold";
+ font-weight: 400;
+ src: url("/fonts/narkiss-linotype-bold.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "narkiss-block-regular";
+ font-weight: 400;
+ src: url("/fonts/narkiss-block-regular.woff2") format("woff2");
+ }
+ @font-face {
+ font-family: "shoken-regular";
+ font-weight: 400;
+ src: url("/fonts/shoken-regular.woff2") format("woff2");
+ }
+ * {
+   box-sizing: border-box;
+   }
+   body {
+      margin-right: 120;
+      margin-left: 120;
+   }
+ header {
+   border-bottom: 2px solid #e73625;
+   text-align: center;
+   display: block;
+ }
+.opening  {
+   margin-right: 120;
+   margin-left: 120;
+} 
+.box {
+   border-top: 1px solid #ececec;
+   border-bottom: 1px solid #ececec;
+   margin-right: 120;
+   margin-left: 120;
+} 
+.open-text {
+    font-family: "narkiss-block-bold", sans-serif;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-right: 200px;
+    line-height: 1.4;s   
+}
+.text {
+   font-family: "narkiss-block-bold", sans-serif;
+   font-size: 18px;
+   margin-top: 0px;
+   margin-right: 200px;
+   line-height: 1.4;
+}
+.info {
+   font-family: "dan-m", sans-serif;
+   font-weight: bold;
+   margin-bottom: 0px;
+   margin-top: 22px;
+   padding: 0px 0 4px;
+   color: #e73625;
+ }
+.notes {
+   font-family: "dan-m", sans-serif;
+   margin-top: 50px;
+   font-weight: 400;
+   color: #e73625;
+ }
+.logo {
+   width: 500px;
+   margin-right: 950px;
+ h1 {
+    font-family: "dan-m", serif;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    font-size: 60px;
+    margin-top: 100px;
+     }
+
+ }
+ .letters {
+    text-align: center;
+    letter-spacing: 0.04em;
+    font-size: 180px;
+ }
+ .insideimage {
+   margin-right: 200px;
+ }
+ section2 > p {
+    font-family: "aharoni-regular.woff2" ;
+    margin-top: 100px;
+    font-size: 22px;
+ }
